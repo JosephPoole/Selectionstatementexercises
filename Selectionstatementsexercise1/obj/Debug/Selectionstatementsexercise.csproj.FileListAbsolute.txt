@@ -1,0 +1,16 @@
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\bin\Debug\Selectionstatementsexercise.exe.config
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\bin\Debug\Selectionstatementsexercise.exe
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\bin\Debug\Selectionstatementsexercise.pdb
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\obj\Debug\Selectionstatementsexercise.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\obj\Debug\Selectionstatementsexercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\obj\Debug\Selectionstatementsexercise.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\obj\Debug\Selectionstatementsexercise.exe
+C:\Users\Joseph\Desktop\Repos\OperatorsExercise\Selectionstatementsexercise\obj\Debug\Selectionstatementsexercise.pdb
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\bin\Debug\Selectionstatementsexercise.exe.config
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\bin\Debug\Selectionstatementsexercise.exe
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\bin\Debug\Selectionstatementsexercise.pdb
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\obj\Debug\Selectionstatementsexercise.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\obj\Debug\Selectionstatementsexercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\obj\Debug\Selectionstatementsexercise.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\obj\Debug\Selectionstatementsexercise.exe
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise1\obj\Debug\Selectionstatementsexercise.pdb

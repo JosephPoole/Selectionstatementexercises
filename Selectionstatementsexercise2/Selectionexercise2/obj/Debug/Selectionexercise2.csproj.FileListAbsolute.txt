@@ -1,0 +1,8 @@
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\bin\Debug\Selectionexercise2.exe.config
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\bin\Debug\Selectionexercise2.exe
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\bin\Debug\Selectionexercise2.pdb
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\obj\Debug\Selectionexercise2.csproj.AssemblyReference.cache
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\obj\Debug\Selectionexercise2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\obj\Debug\Selectionexercise2.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\obj\Debug\Selectionexercise2.exe
+C:\Users\Joseph\Desktop\Repos\Selectionstatements\Selectionstatementsexercise2\Selectionexercise2\obj\Debug\Selectionexercise2.pdb
