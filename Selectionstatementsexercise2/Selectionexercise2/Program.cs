@@ -29,7 +29,11 @@ namespace Selectionexercise2
                     break;
                 case "art":
                     Console.WriteLine(" Your favorite subject is art?! Mine was too!!");
-                    break;}
+                    break;
+                default:
+                    Console.WriteLine(" Please enter one of the 5 subjects we asked you for next time.");
+                    break;
+            }
 
         }
     }
